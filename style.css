@@ -306,6 +306,14 @@ nav {
  }
 .accreditation_home .card{
     border-bottom: 3px solid slateblue;
+    transition: all 0.4s linear;
+    cursor: pointer;
+}
+
+.accreditation_home .card:hover{
+   transform: translateY(-10px);
+   transition: all 0.4s linear;
+   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6);
 }
  .accreditation_home .card .card-title{
  font-family: 'Merriweather', serif; 
@@ -573,8 +581,21 @@ nav {
     font-weight: 400;
     color: #565D6DFF;
 }
-
-
+.values .card{
+    border-top: 3px solid slateblue;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+}
+.values .card .list_val{
+font-family: 'Open Sans', sans-serif;
+line-height: 33px;
+color:#565D6DFF;
+}
+.values .card .card-text{
+    line-height: 28px;
+}
+.values .card .card-text:nth-child(2){
+    line-height: 35px;
+}
 .founders {
     background: #FFF9E6FF;
     padding: 40px;
@@ -607,6 +628,7 @@ nav {
     font-size: 20px;
     line-height: 33px;
     font-weight: 400;
+    line-height: 45px;
     color: #19191FFF;
 }
 
@@ -618,6 +640,77 @@ nav {
     color: #19191FFF;
 }
 
+.what_we_do h2{
+     font-family: 'Merriweather', serif;
+    font-size: 36px;
+    line-height: 40px;
+    font-weight: 600;
+    color: #19191FFF;
+}
+
+.what_we_do p{
+      font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+   
+    font-weight: 400;
+    line-height: 30px;
+   color: #565D6DFF;
+}
+
+.what_we_do .card-body {
+    border-bottom: 3px solid steelblue;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.why_choose_us .why_choose_text h2{
+     font-family: 'Merriweather', serif;
+    font-size: 26px;
+    line-height: 40px;
+    font-weight: 600;
+    color: #08152CFF;
+}
+
+.why_choose_us .why_choose_text p{
+      font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 400;
+    
+    color: #565D6DFF;
+}
+.why_choose_us .accordion-item h2{
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    
+    font-weight: 600;
+    color: #08152CFF;
+}
+
+.why_choose_us .accordion-item .accordion-body{
+     font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    
+    font-weight: 400;
+    
+    color: #565D6DFF;
+}
+
+.our_commitment .commit_details h2{
+    font-family: 'Merriweather', serif;
+    font-size: 28px;
+    
+    font-weight: 600;
+    color: #08152CFF;
+}
+
+.our_commitment .commit_details p{
+       font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    padding:0 40px;
+    font-weight: 400;
+    
+    color: #565D6DFF;
+}
 .our_board h3 {
     font-family: 'Merriweather', serif;
     font-size: 36px;
@@ -631,6 +724,7 @@ nav {
     font-size: 18px;
     line-height: 28px;
     font-weight: 400;
+    
     color: #565D6DFF;
 }
 
