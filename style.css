@@ -1077,9 +1077,135 @@ about us end */
 .acc_hero_section .head_details p {
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
-    line-height: 29px;
+    line-height: 39px;
     font-weight: 400;
     color: #171A1FFF;
+}
+
+.acc_hero_section .button_link .accredition_button{
+        font-family: 'Open Sans', sans-serif;
+    padding: 0 12px;
+    background: #08152CFF;
+    border-radius: 4px;
+    box-shadow: 0px 0px 2px #171a1f14;
+    color: #FFFFFFFF;
+    font-size: 16px;
+    width: 247px;
+    height: 48px;
+}
+.acc_hero_section .button_link .verify_button{
+    width: 280px;
+    height: 50px;
+    padding: 0px 20px;
+   
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 500;
+    color: #C39900FF;
+    background: #FFFFFFFF;
+    opacity: 1;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: #C39900FF;
+    border-style: solid;
+    
+    box-shadow: 0px 0px 2px #171a1f14;
+}
+.code_of_ethics {
+  background: #f8f9fa;
+  padding: 50px 20px;
+}
+
+.code_of_ethics .head h2 {
+ font-family: 'Merriweather', serif;
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.code_of_ethics .head p {
+ font-family: 'Open Sans', sans-serif;
+  color: #666;
+  font-size: 1rem;
+  margin-bottom: 30px;
+}
+
+.code_of_ethics .card {
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  transition: 0.3s;
+  cursor:pointer;
+}
+.code_of_ethics .card h5{
+    font-family: 'Merriweather', serif;
+  font-size: 24px; 
+  line-height: 32px; 
+  font-weight: 600; 
+  color: #171A1FFF;
+}
+.code_of_ethics .card .card-body p{
+     font-family: 'Open Sans', sans-serif;
+  font-size: 16px; 
+  line-height: 24px; 
+  font-weight: 400; 
+  color: #171A1FFF;
+}
+.code_of_ethics .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.code_of_ethics .card-header {
+  background: #f1f1f1;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.code_of_ethics .card-body {
+  padding: 20px;
+}
+
+.code_of_ethics .card-text {
+  color: #555;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.accreditation_tires .head h2{
+    font-family: 'Merriweather', serif;
+  font-size: 40px; 
+  line-height: 40px; 
+  font-weight: 600; 
+  color: #171A1FFF;
+}
+.accreditation_tires .list-group .list-group-item{
+    line-height: 40px;
+}
+
+.accreditation_tires .card-header h2{
+ font-family: 'Merriweather', serif;
+  font-size: 30px; 
+  line-height: 40px; 
+  font-weight: 500; 
+  color: #171A1FFF;
+} 
+.accreditation_tires .list-group b{
+   font-family: 'Merriweather', serif;
+  font-size: 20px; 
+  line-height: 28px; 
+  font-weight: 600; 
+  color: #171A1FFF;
+}
+
+.accreditation_tires .list-group span{
+   font-family: 'Open Sans', sans-serif;
+  font-size: 16px; 
+  line-height: 24px; 
+  font-weight: 400; 
+  color: #565D6DFF;
 }
 
 .individual {
@@ -1097,7 +1223,7 @@ about us end */
 .individual .head p {
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
-    line-height: 28px;
+    line-height: 38px;
     font-weight: 400;
     color: #171A1FFF;
 
@@ -1167,7 +1293,7 @@ about us end */
 .individual .section_list p {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 34px;
     font-weight: 400;
     color: #565D6DFF;
 }
