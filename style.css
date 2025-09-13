@@ -2770,5 +2770,278 @@ contact us start */
     }
 }
 
+
+
+
 /* 
 contact us start */
+
+
+/* privacy start page */
+
+/* ===== Main Section ===== */
+
+.main_heading h2{
+    font-family: "Merriweather", serif;
+  font-size: 38px;
+  line-height: 36px;
+  font-weight: 600;
+  color: #171A1FFF;
+  margin-bottom: 10px;
+  text-align: center;
+  margin-top: 25px;
+  text-transform: capitalize;
+}
+section.main .text h2 {
+  font-family: "Merriweather", serif;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 600;
+  color: #171A1FFF;
+  margin-bottom: 15px;
+}
+
+section.main .text p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 17px;
+  line-height: 26px;
+  font-weight: 400;
+  color: #565D6DFF;
+  margin-bottom: 10px;
+}
+
+/* ===== Information Section ===== */
+section.information h2 {
+  font-family: "Merriweather", serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  color: #171A1FFF;
+  margin-bottom: 15px;
+}
+
+section.information p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #565D6DFF;
+  margin-bottom: 12px;
+}
+
+/* ===== Consent Section ===== */
+section.consent .text h2 {
+  font-family: "Merriweather", serif;
+  font-size: 26px;
+  line-height: 34px;
+  font-weight: 600;
+  color: #171A1FFF;
+  margin-bottom: 15px;
+}
+
+section.consent .text p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #565D6DFF;
+}
+
+/* ===== How We Use Section ===== */
+section.how_we_use .text h1 {
+  font-family: "Merriweather", serif;
+  font-size: 30px;
+  line-height: 38px;
+  font-weight: 600;
+  color: #171A1FFF;
+  margin-bottom: 20px;
+}
+
+section.how_we_use .text p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 17px;
+  line-height: 26px;
+  font-weight: 400;
+  color: #565D6DFF;
+  margin-bottom: 10px;
+}
+
+/* ===== Data Sharing Section ===== */
+section.data_sharing .text h2 {
+  font-family: "Merriweather", serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  color: #171A1FFF;
+  margin-bottom: 15px;
+}
+
+section.data_sharing .text p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #565D6DFF;
+  margin-bottom: 12px;
+}
+
+/* ===== Data Security Section ===== */
+section.data_security h2 {
+  font-family: "Merriweather", serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  color: #171A1FFF;
+  margin-bottom: 15px;
+}
+
+section.data_security p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #565D6DFF;
+}
+
+/* ===== Your Rights Section ===== */
+section.your_rights h2 {
+  font-family: "Merriweather", serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  color: #171A1FFF;
+  margin-bottom: 15px;
+}
+
+section.your_rights p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #565D6DFF;
+}
+
+
+/* ===== Terms of Service Section ===== */
+section.terms h2 {
+  font-family: "Merriweather", serif;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 600;
+  color: #171A1FFF;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* ===== Purpose Section ===== */
+section.purpose h2 {
+  font-family: "Merriweather", serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  color: #171A1FFF;
+  margin-bottom: 15px;
+}
+
+section.purpose p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #565D6DFF;
+  margin-bottom: 12px;
+}
+
+/* ===== Use of Information Section ===== */
+section.use_of_info h2 {
+  font-family: "Merriweather", serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  color: #171A1FFF;
+  margin-bottom: 15px;
+}
+
+section.use_of_info p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #565D6DFF;
+  margin-bottom: 10px;
+}
+
+/* ===== Accreditation Disclaimer Section ===== */
+section.accreditation h2 {
+  font-family: "Merriweather", serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  color: #171A1FFF;
+  margin-bottom: 15px;
+}
+
+section.accreditation p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #565D6DFF;
+  margin-bottom: 10px;
+}
+
+/* ===== Intellectual Property Section ===== */
+section.intellect h2 {
+  font-family: "Merriweather", serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  color: #171A1FFF;
+  margin-bottom: 15px;
+}
+
+section.intellect p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #565D6DFF;
+  margin-bottom: 10px;
+}
+
+/* ===== Limitation of Liability Section ===== */
+section.limitation h2 {
+  font-family: "Merriweather", serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  color: #171A1FFF;
+  margin-bottom: 15px;
+}
+
+section.limitation p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #565D6DFF;
+  margin-bottom: 10px;
+}
+
+/* ===== Amendments Section ===== */
+section.amendments h2 {
+  font-family: "Merriweather", serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 600;
+  color: #171A1FFF;
+  margin-bottom: 15px;
+}
+
+section.amendments p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #565D6DFF;
+}
