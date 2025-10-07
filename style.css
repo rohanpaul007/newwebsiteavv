@@ -198,7 +198,15 @@ nav {
     font-weight: 400;
     color: #565D6DFF;
 }
+.trustees .box img {
+    width: 100%;
+   
+    height: 300px;
+    object-fit: contain;
+   
+}
 
+ 
 .cta-section .button_link .accredition_button{
     background-color: #03173b;
     color: #FFFFFF;
@@ -2788,7 +2796,7 @@ contact us start */
   font-weight: 600;
   color: #171A1FFF;
   margin-bottom: 10px;
-  text-align: center;
+  
   margin-top: 25px;
   text-transform: capitalize;
 }
